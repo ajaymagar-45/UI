@@ -1,0 +1,9 @@
+Q1.What is HyperText?
+Ans:Hypertext is  text which contains links to other texts.
+
+Q2.Markup lang?
+Ans:It's  a way to give instructions to a computer about how content should be
+organized and displayed
+Q3.Why we must write .html extension
+Ans:The file name must be the same as the title of the webpage and it must have .html extension
+ <html> is the root element of an HTML page
