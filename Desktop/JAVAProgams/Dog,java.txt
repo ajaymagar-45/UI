@@ -1,0 +1,11 @@
+class Animal{
+void Bark(){
+System.out.println("Barking");
+}
+}
+class Dog extends Animal{
+public static void main(String [] args){
+Dob obj=new Dog();
+obj.Bark();
+}
+}

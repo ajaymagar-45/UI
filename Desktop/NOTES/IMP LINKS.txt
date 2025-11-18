@@ -1,0 +1,2 @@
+1.String method examples
+https://www.w3resource.com/java-exercises/string/index.php#google_vignette
